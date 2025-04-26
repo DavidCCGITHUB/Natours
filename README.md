@@ -22,11 +22,11 @@ Some of the features include:
 ## Screenshots
 
 ![Homepage](Natours/img/Screenshots/SS1.png)
-![Description](img/Screenshots/SS2.png)
-![Features](img/Screenshots/SS3.png)
-![Prices](img/Screenshots/SS4.png)
-![Reviews](img/Screenshots/SS5.png)
-![Booking](img/Screenshots/SS6.png)
+![Description](Natours/img/Screenshots/SS2.png)
+![Features](Natours/img/Screenshots/SS3.png)
+![Prices](Natours/img/Screenshots/SS4.png)
+![Reviews](Natours/img/Screenshots/SS5.png)
+![Booking](Natours/img/Screenshots/SS6.png)
 
 ## License
 
