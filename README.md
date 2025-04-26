@@ -21,7 +21,7 @@ Some of the features include:
 
 ## Screenshots
 
-![Homepage](Natorous/img/Screenshots/SS1.png)
+![Homepage](Natours/img/Screenshots/SS1.png)
 ![Description](img/Screenshots/SS2.png)
 ![Features](img/Screenshots/SS3.png)
 ![Prices](img/Screenshots/SS4.png)
