@@ -28,6 +28,7 @@ Some of the features include:
 ![Reviews](img/Screenshots/SS5.png)
 ![Booking](img/Screenshots/SS6.png)
 
-## License
+### Disclaimer
 
-For personal/educational use only.
+This project was made for educational purposes only.
+
